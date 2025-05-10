@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 197.11 146.81">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #010101;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-width: .24px;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        stroke: #cdcccc;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #d37ab0;
+      }
+
+      .cls-6 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        fill: #d72829;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        fill: #7c7c7c;
+        font-family: Arial-BoldMT, Arial;
+        font-size: 2.93px;
+        font-weight: 700;
+      }
+
+      .cls-10, .cls-11 {
+        isolation: isolate;
+      }
+
+      .cls-12 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        fill: #010101;
+        font-family: Helvetica, Helvetica;
+        font-size: 2.44px;
+      }
+
+      .cls-14 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-15 {
+        fill: #2078b5;
+      }
+
+      .cls-16 {
+        fill: #2ca137;
+      }
+
+      .cls-17 {
+        fill: #f07e21;
+      }
+
+      .cls-18 {
+        fill: #8f67aa;
+      }
+
+      .cls-19 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-20 {
+        fill: #8d574c;
+      }
+    </style>
+  </defs>
+  <rect id="background" class="cls-4" x=".12" y=".12" width="196.87" height="146.57"/>
+  <g id="viz">
+    <g>
+      <g id="primera">
+        <rect class="cls-17" x="16.18" y="123.57" width="11.03" height="18.24"/>
+        <rect class="cls-17" x="31.04" y="119.01" width="11.03" height="22.8"/>
+        <rect class="cls-17" x="45.91" y="128.13" width="11.03" height="13.68"/>
+        <rect class="cls-17" x="60.77" y="123.57" width="11.03" height="18.24"/>
+        <rect class="cls-17" x="75.64" y="134.97" width="11.03" height="6.84"/>
+        <rect class="cls-17" x="90.5" y="134.97" width="11.03" height="6.84"/>
+        <rect class="cls-17" x="105.36" y="130.41" width="11.03" height="11.4"/>
+        <rect class="cls-17" x="135.09" y="134.97" width="11.03" height="6.84"/>
+        <rect class="cls-17" x="149.95" y="134.97" width="11.03" height="6.84"/>
+        <rect class="cls-17" x="164.82" y="128.13" width="11.03" height="13.68"/>
+        <rect class="cls-17" x="179.68" y="123.57" width="11.03" height="18.24"/>
+      </g>
+      <g id="segunda">
+        <rect class="cls-8" x="16.18" y="105.33" width="11.03" height="18.24"/>
+        <rect class="cls-8" x="31.04" y="100.77" width="11.03" height="18.24"/>
+        <rect class="cls-8" x="45.91" y="109.89" width="11.03" height="18.24"/>
+        <rect class="cls-8" x="60.77" y="105.33" width="11.03" height="18.24"/>
+        <rect class="cls-8" x="75.64" y="116.73" width="11.03" height="18.24"/>
+        <rect class="cls-8" x="90.5" y="116.73" width="11.03" height="18.24"/>
+        <rect class="cls-8" x="105.36" y="107.61" width="11.03" height="22.8"/>
+        <rect class="cls-8" x="120.23" y="123.57" width="11.03" height="18.24"/>
+        <rect class="cls-8" x="135.09" y="116.73" width="11.03" height="18.24"/>
+        <rect class="cls-8" x="149.95" y="116.73" width="11.03" height="18.24"/>
+        <rect class="cls-8" x="164.82" y="109.89" width="11.03" height="18.24"/>
+        <rect class="cls-8" x="179.68" y="105.33" width="11.03" height="18.24"/>
+      </g>
+      <g id="tercera">
+        <rect class="cls-5" x="16.18" y="87.09" width="11.03" height="18.24"/>
+        <rect class="cls-5" x="31.04" y="82.53" width="11.03" height="18.24"/>
+        <rect class="cls-5" x="45.91" y="91.65" width="11.03" height="18.24"/>
+        <rect class="cls-5" x="60.77" y="82.53" width="11.03" height="22.8"/>
+        <rect class="cls-5" x="75.64" y="109.89" width="11.03" height="6.84"/>
+        <rect class="cls-5" x="90.5" y="98.49" width="11.03" height="18.24"/>
+        <rect class="cls-5" x="105.36" y="84.81" width="11.03" height="22.8"/>
+        <rect class="cls-5" x="120.23" y="105.33" width="11.03" height="18.24"/>
+        <rect class="cls-5" x="135.09" y="98.49" width="11.03" height="18.24"/>
+        <rect class="cls-5" x="149.95" y="98.49" width="11.03" height="18.24"/>
+        <rect class="cls-5" x="164.82" y="91.65" width="11.03" height="18.24"/>
+        <rect class="cls-5" x="179.68" y="87.09" width="11.03" height="18.24"/>
+      </g>
+      <g id="cuarta">
+        <rect class="cls-15" x="16.18" y="68.85" width="11.03" height="18.24"/>
+        <rect class="cls-15" x="31.04" y="59.73" width="11.03" height="22.8"/>
+        <rect class="cls-15" x="60.77" y="59.73" width="11.03" height="22.8"/>
+        <rect class="cls-15" x="75.64" y="91.65" width="11.03" height="18.24"/>
+        <rect class="cls-15" x="90.5" y="75.69" width="11.03" height="22.8"/>
+        <rect class="cls-15" x="105.36" y="62.01" width="11.03" height="22.8"/>
+        <rect class="cls-15" x="120.23" y="59.73" width="11.03" height="45.6"/>
+        <rect class="cls-15" x="135.09" y="80.25" width="11.03" height="18.24"/>
+        <rect class="cls-15" x="164.82" y="73.41" width="11.03" height="18.24"/>
+        <rect class="cls-15" x="179.68" y="64.29" width="11.03" height="22.8"/>
+      </g>
+      <g id="quinta">
+        <rect class="cls-16" x="16.18" y="50.61" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="31.04" y="41.49" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="45.91" y="73.41" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="60.77" y="41.49" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="75.64" y="73.41" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="90.5" y="57.45" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="105.36" y="43.77" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="120.23" y="41.49" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="135.09" y="62.01" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="149.95" y="80.25" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="164.82" y="55.17" width="11.03" height="18.24"/>
+        <rect class="cls-16" x="179.68" y="46.05" width="11.03" height="18.24"/>
+      </g>
+      <g id="sexta">
+        <rect class="cls-20" x="16.18" y="32.37" width="11.03" height="18.24"/>
+        <rect class="cls-20" x="31.04" y="23.25" width="11.03" height="18.24"/>
+        <rect class="cls-20" x="45.91" y="55.17" width="11.03" height="18.24"/>
+        <rect class="cls-20" x="60.77" y="23.25" width="11.03" height="18.24"/>
+        <rect class="cls-20" x="90.5" y="39.21" width="11.03" height="18.24"/>
+        <rect class="cls-20" x="105.36" y="25.53" width="11.03" height="18.24"/>
+        <rect class="cls-20" x="120.23" y="23.25" width="11.03" height="18.24"/>
+        <rect class="cls-20" x="135.09" y="43.77" width="11.03" height="18.24"/>
+        <rect class="cls-20" x="149.95" y="62.01" width="11.03" height="18.24"/>
+        <rect class="cls-20" x="164.82" y="36.93" width="11.03" height="18.24"/>
+        <rect class="cls-20" x="179.68" y="27.81" width="11.03" height="18.24"/>
+      </g>
+      <g id="septima">
+        <rect class="cls-18" x="16.18" y="20.97" width="11.03" height="11.4"/>
+        <rect class="cls-18" x="31.04" y="11.85" width="11.03" height="11.4"/>
+        <rect class="cls-18" x="45.91" y="43.77" width="11.03" height="11.4"/>
+        <rect class="cls-18" x="60.77" y="11.85" width="11.03" height="11.4"/>
+        <rect class="cls-18" x="90.5" y="27.81" width="11.03" height="11.4"/>
+        <rect class="cls-18" x="105.36" y="14.13" width="11.03" height="11.4"/>
+        <rect class="cls-18" x="120.23" y="5.01" width="11.03" height="18.24"/>
+        <rect class="cls-18" x="135.09" y="32.37" width="11.03" height="11.4"/>
+        <rect class="cls-18" x="164.82" y="30.09" width="11.03" height="6.84"/>
+        <rect class="cls-18" x="179.68" y="16.41" width="11.03" height="11.4"/>
+      </g>
+      <g id="xAxis">
+        <path class="cls-1" d="M12.35,141.81h182.2"/>
+        <g>
+          <line class="cls-1" x1="21.7" y1="141.81" x2="21.7" y2="143.27"/>
+          <text class="cls-11" transform="translate(20.64 108.39) rotate(90)"><tspan x="0" y="0">BROWNE PRIE</tspan><tspan class="cls-9" x="17.37" y="0">T</tspan><tspan x="18.82" y="0">O, SOFÍ</tspan><tspan class="cls-14" x="27.78" y="0">A</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="36.56" y1="141.81" x2="36.56" y2="143.27"/>
+          <text class="cls-11" transform="translate(35.84 90.44) rotate(90)"><tspan x="0" y="0">CAM</tspan><tspan class="cls-19" x="5.43" y="0">P</tspan><tspan x="6.88" y="0">AZZO FUENTEALBA, MAGDALEN</tspan><tspan class="cls-14" x="45.15" y="0">A</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="51.42" y1="141.81" x2="51.42" y2="143.27"/>
+          <text class="cls-11" transform="translate(50.89 95.79) rotate(90)"><tspan x="0" y="0">CORDERO BRUMMER, MARÍ</tspan><tspan class="cls-12" x="33.25" y="0">A</tspan><tspan x="34.75" y="0" xml:space="preserve"> JOSÉ</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="66.29" y1="141.81" x2="66.29" y2="143.27"/>
+          <text class="cls-11" transform="translate(65.37 94.77) rotate(90)"><tspan x="0" y="0">CO</tspan><tspan class="cls-7" x="3.66" y="0">R</tspan><tspan x="5.39" y="0">THORN PEDRASA, MAGDALEN</tspan><tspan class="cls-14" x="41.49" y="0">A</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="81.15" y1="141.81" x2="81.15" y2="143.27"/>
+          <text class="cls-11" transform="translate(79.99 105.17) rotate(90)"><tspan x="0" y="0">CU</tspan><tspan class="cls-19" x="3.53" y="0">YA</tspan><tspan x="6.43" y="0">TE MIMBELA, BR</tspan><tspan class="cls-19" x="25.97" y="0">AY</tspan><tspan x="28.87" y="0">AN</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="96.02" y1="141.81" x2="96.02" y2="143.27"/>
+          <text class="cls-11" transform="translate(95.17 100.2) rotate(90)"><tspan x="0" y="0">CVI</tspan><tspan class="cls-6" x="4.07" y="0">T</tspan><tspan x="5.38" y="0">ANIC VERGARA,</tspan><tspan class="cls-9" x="24.52" y="0" xml:space="preserve"> T</tspan><tspan x="26.61" y="0">OMISL</tspan><tspan class="cls-6" x="34.21" y="0">A</tspan><tspan class="cls-3" x="35.66" y="0">V</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="110.88" y1="141.81" x2="110.88" y2="143.27"/>
+          <text class="cls-11" transform="translate(110.02 101.38) rotate(90)"><tspan x="0" y="0">FLORES HIDALGO, </tspan><tspan class="cls-19" x="22.8" y="0">V</tspan><tspan x="24.25" y="0">ALENTIN</tspan><tspan class="cls-14" x="34.57" y="0">A</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="125.74" y1="141.81" x2="125.74" y2="143.27"/>
+          <text class="cls-11" transform="translate(124.94 105.37) rotate(90)"><tspan x="0" y="0">LAGOS NO</tspan><tspan class="cls-19" x="12.76" y="0">V</tspan><tspan x="14.21" y="0">A, CONS</tspan><tspan class="cls-6" x="24.25" y="0">T</tspan><tspan class="cls-3" x="25.57" y="0">ANZ</tspan><tspan class="cls-14" x="30.45" y="0">A</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="140.61" y1="141.81" x2="140.61" y2="143.27"/>
+          <text class="cls-11" transform="translate(139.68 98.39) rotate(90)"><tspan x="0" y="0">N</tspan><tspan class="cls-6" x="1.76" y="0">AV</tspan><tspan x="4.66" y="0">ARRETE SANTIBÁÑEZ, SOFÍ</tspan><tspan class="cls-12" x="37.64" y="0">A</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="155.47" y1="141.81" x2="155.47" y2="143.27"/>
+          <text class="cls-11" transform="translate(154.45 101.64) rotate(90)"><tspan x="0" y="0">OLI</tspan><tspan class="cls-19" x="3.94" y="0">V</tspan><tspan x="5.39" y="0">ARES CANALES, DANIEL</tspan><tspan class="cls-12" x="34.3" y="0">A</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="170.34" y1="141.81" x2="170.34" y2="143.27"/>
+          <text class="cls-11" transform="translate(169.77 109.89) rotate(90)"><tspan x="0" y="0">OLIVOS LEI</tspan><tspan class="cls-6" x="13.44" y="0">V</tspan><tspan class="cls-3" x="14.89" y="0">A, MÓNIC</tspan><tspan class="cls-14" x="26.02" y="0">A</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="185.2" y1="141.81" x2="185.2" y2="143.27"/>
+          <text class="cls-11" transform="translate(184.92 99.12) rotate(90)"><tspan x="0" y="0">WU</tspan><tspan class="cls-7" x="4.07" y="0">R</tspan><tspan class="cls-13" x="5.79" y="0">TH GONZÁLEZ, FRANCISC</tspan><tspan class="cls-12" x="36.73" y="0">A</tspan></text>
+        </g>
+      </g>
+      <g id="yAxis">
+        <path class="cls-1" d="M12.35,141.81V5.01"/>
+        <g>
+          <line class="cls-1" x1="12.35" y1="141.81" x2="10.88" y2="141.81"/>
+          <text class="cls-11" transform="translate(6.75 142.59)"><tspan x="0" y="0">0.0</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="130.41" x2="10.88" y2="130.41"/>
+          <text class="cls-11" transform="translate(6.75 131.19)"><tspan x="0" y="0">0.5</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="119.01" x2="10.88" y2="119.01"/>
+          <text class="cls-11" transform="translate(6.75 119.79)"><tspan x="0" y="0">1.0</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="107.61" x2="10.88" y2="107.61"/>
+          <text class="cls-11" transform="translate(6.75 108.39)"><tspan x="0" y="0">1.5</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="96.21" x2="10.88" y2="96.21"/>
+          <text class="cls-11" transform="translate(6.75 96.99)"><tspan x="0" y="0">2.0</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="84.81" x2="10.88" y2="84.81"/>
+          <text class="cls-11" transform="translate(6.75 85.59)"><tspan x="0" y="0">2.5</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="73.41" x2="10.88" y2="73.41"/>
+          <text class="cls-11" transform="translate(6.75 74.19)"><tspan x="0" y="0">3.0</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="62.01" x2="10.88" y2="62.01"/>
+          <text class="cls-11" transform="translate(6.75 62.79)"><tspan x="0" y="0">3.5</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="50.61" x2="10.88" y2="50.61"/>
+          <text class="cls-11" transform="translate(6.75 51.39)"><tspan x="0" y="0">4.0</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="39.21" x2="10.88" y2="39.21"/>
+          <text class="cls-11" transform="translate(6.75 39.99)"><tspan x="0" y="0">4.5</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="27.81" x2="10.88" y2="27.81"/>
+          <text class="cls-11" transform="translate(6.75 28.59)"><tspan x="0" y="0">5.0</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="16.41" x2="10.88" y2="16.41"/>
+          <text class="cls-11" transform="translate(6.75 17.19)"><tspan x="0" y="0">5.5</tspan></text>
+        </g>
+        <g>
+          <line class="cls-1" x1="12.35" y1="5.01" x2="10.88" y2="5.01"/>
+          <text class="cls-11" transform="translate(6.75 5.79)"><tspan x="0" y="0">6.0</tspan></text>
+        </g>
+      </g>
+      <text class="cls-10" transform="translate(183.79 140.83)"><tspan x="0" y="0">nombre</tspan></text>
+    </g>
+    <g id="grid">
+      <rect class="cls-2" x=".12" y=".12" width="196.87" height="146.57"/>
+    </g>
+  </g>
+</svg>
